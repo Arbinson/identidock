@@ -1,5 +1,6 @@
 identidock Demo
 
+Using POLL SCM to automation build
 =====================
 
 Simple identicon server based on monsterid from Kevin Gaudin.
