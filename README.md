@@ -1,5 +1,6 @@
-identidock
-==========
+identidock Demo
+
+=====================
 
 Simple identicon server based on monsterid from Kevin Gaudin.
 
